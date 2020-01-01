@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#D81B60</color>
+    <color name="colorPrimary">#BF007A</color>
+    <color name="colorPrimaryDark">#BF007A</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorAdmin">#b3b3b3</color>
+    <color name="color_add_product">#8C8C8C</color>
+    <color name="colorProfile">#f2f2f2</color>
+    <color name="deactivate_button">#e60000</color>
+    <color name="color_admin_customer_view">#f0f5f5</color>
+    <color name="green">#32CD32</color>
+    <color name="grey">#BFAFAF</color>
+    <color name="brown">#B22222</color>
+    <color name="pink">#FFC0CB</color>
+    <color name="colorList">#FFFAF0</color>
 </resources>
